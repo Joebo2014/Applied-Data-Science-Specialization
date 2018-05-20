@@ -26,4 +26,5 @@ Solutions and Notes for Coursera Specialization - [Applied Data Science Speciali
 - [ ] [Solution to Week 5]()
 - [ ] [Solution to Week 6]()
 
-### [ ] [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) [x]
+### - [ ] [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone
+- [ ] [Solution]()
